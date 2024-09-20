@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kottarivaibhav&label=Profile%20views&color=0e75b6&style=flat" alt="kottarivaibhav" /> </p>
 
-- 🔭 I’m currently working on **Twitter-Sentiment-Analysis**
+- 🔭 I’m currently working on my new Project **ConRag: An Rag based model*
 
-- 🌱 I’m currently learning **React.js , Node.js , MongoDB , Postgresql**
+- 🌱 I’m currently learning **React.js ,Nextjs ,Node.js , MongoDB **
 
 - 👨‍💻 All of my projects are available at [https://kottarivaibhav.github.io/portfolio_website/](https://kottarivaibhav.github.io/portfolio_website/)
 
