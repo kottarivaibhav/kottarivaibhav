@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kottarivaibhav&label=Profile%20views&color=0e75b6&style=flat" alt="kottarivaibhav" /> </p>
 
-- 🔭 I’m currently working on my new Project **ConRag: An Rag based model*
+- 🔭 I’m currently working on my new Project **ConRag: An Rag based model**
 
 - 🌱 I’m currently learning **React.js ,Nextjs ,Node.js , MongoDB **
 
