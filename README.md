@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://kottarivaibhav.github.io/portfolio_website/](https://kottarivaibhav.github.io/portfolio_website/)
 
-- ⚒️ Currently Invloved in GSSOC'24 and Hacktoberfest contribution.
+- ⚒️ Currently Invloved in GSSOC'24 extended .
 
-- 💬 Ask me about **react, data analysis and sql**
+- 💬 Ask me about ** react, data analysis and sql **
 
-- 📫 How to reach me **kottarivaibhav@gmail.com**
+- 📫 How to reach me ** kottarivaibhav@gmail.com **
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mJcLA8_0jRBBkxefWIMuDRHS9ht4QMQz/view?usp=sharing](https://drive.google.com/file/d/1mJcLA8_0jRBBkxefWIMuDRHS9ht4QMQz/view?usp=sharing)
 
