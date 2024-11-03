@@ -26,6 +26,8 @@
 <a href="https://www.hackerrank.com/@kottarivaibhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kottarivaibhav" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Hacktoberfest Badges</h3>
+[![An image of @kottarivaibhav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kottarivaibhav)](https://holopin.io/@kottarivaibhav)
 
 
 <h3 align="left">Languages and Tools:</h3>
