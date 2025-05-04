@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kottarivaibhav&label=Profile%20views&color=0e75b6&style=flat" alt="kottarivaibhav" /> </p>
 
-- 🔭 I’m currently working on my new Project **ConRag: An Rag based model**
+- 🔭 I’m currently Busy working at Verifone Technology India **ConRag: An Rag based model**
 
-- 🌱 I’m currently learning **React.js ,Nextjs ,Node.js , MongoDB **
+- 🌱 I’m currently learning **React.js ,Nextjs ,Flask ,FastAPI,Django MongoDB **
 
 - 👨‍💻 All of my projects are available at [https://kottarivaibhav.github.io/portfolio_website/](https://kottarivaibhav.github.io/portfolio_website/)
-
-- ⚒️ Currently Invloved in GSSOC'24 extended .
 
 - 💬 Ask me about ** react, data analysis and sql **
 
