@@ -13,7 +13,7 @@
 - 💬 Ask me about: `React`, `Python`, `Data Analysis`, `SQL`
 - 📫 Reach out to me: **kottarivaibhav@gmail.com**
 - 🧳 Portfolio: [kottarivaibhav.github.io/portfolio_website](https://kottarivaibhav.github.io/portfolio_website/)
-- 📄 Resume: [View on Google Drive](https://drive.google.com/file/d/1mJcLA8_0jRBBkxefWIMuDRHS9ht4QMQz/view?usp=sharing)
+- 📄 Resume: [View on Google Drive]([https://drive.google.com/file/d/1mJcLA8_0jRBBkxefWIMuDRHS9ht4QMQz/view?usp=sharing](https://drive.google.com/file/d/1xschGMpCJw_5txvvkcZXYW_TQeN7B2ma/view?usp=drive_link))
 - ⚡ Fun fact: *“I’m a focused mind with a fun-loving soul 😄”*
 
 ---
